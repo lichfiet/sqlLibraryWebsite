@@ -74,7 +74,7 @@ const SQLS = {
       title: "Accounting Health Check",
       content: "Check common accounting issues",
       rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/diagnostics/accounting/accountingHealthCheck.sql",
-      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/diagnostics/accounting/accountingHealthCheck.sql"
+      sqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/main/diagnostics/accounting/accountingHealthCheck.sql"
     },
     {
       imageSrc:
@@ -82,7 +82,7 @@ const SQLS = {
       title: "Bank Deposit Diag",
       content: "TBA",
       rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/diagnostics/management%20activity/bankDeposit.sql",
-      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/diagnostics/management%20activity/bankDeposit.sql"
+      sqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/blob/main/diagnostics/management%20activity/bankDeposit.sql"
     }
   ],
   Updates: [
@@ -93,6 +93,13 @@ const SQLS = {
       content: "TBA",
       url: "#"
     },
+    {
+      imageSrc:
+        "https://cdn3.iconfinder.com/data/icons/simple-files-1/128/Update-512.png",
+      title: "EVO-20828",
+      content: "Part invoice oob",
+      url: "#"
+    },
   ],
   Tools: [
     {
@@ -101,7 +108,7 @@ const SQLS = {
       title: "Cashier In Sandbox",
       content: "Update to allow you to cashier in sandbox",
       rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/tools/cashierInSandbox.sql",
-      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/tools/cashierInSandbox.sql"
+      sqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/blob/main/tools/cashierInSandbox.sql"
     },
   ],
   Information: [
@@ -111,7 +118,7 @@ const SQLS = {
       title: "Store Information Tool",
       content: "Grabs infor about stores",
       rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/tools/storeInformationTool.sql",
-      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/tools/storeInformationTool.sql"
+      sqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/blob/main/tools/storeInformationTool.sql"
     },
   ],
 }
