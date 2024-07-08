@@ -73,21 +73,23 @@ const SQLS = {
         "https://endlessicons.com/wp-content/uploads/2013/02/wrench-icon.png",
       title: "Accounting Health Check",
       content: "Check common accounting issues",
-      url: "#"
+      rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/diagnostics/accounting/accountingHealthCheck.sql",
+      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/diagnostics/accounting/accountingHealthCheck.sql"
     },
     {
       imageSrc:
         "https://endlessicons.com/wp-content/uploads/2013/02/wrench-icon.png",
-      title: "TBA",
+      title: "Bank Deposit Diag",
       content: "TBA",
-      url: "#"
+      rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/diagnostics/management%20activity/bankDeposit.sql",
+      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/diagnostics/management%20activity/bankDeposit.sql"
     }
   ],
   Updates: [
     {
       imageSrc:
         "https://cdn3.iconfinder.com/data/icons/simple-files-1/128/Update-512.png",
-      title: "TBA",
+      title: "To Be Added",
       content: "TBA",
       url: "#"
     },
@@ -96,18 +98,20 @@ const SQLS = {
     {
       imageSrc:
         "https://st3.depositphotos.com/12229170/17110/v/450/depositphotos_171103234-stock-illustration-screwdriver-solid-icon-build-repair.jpg",
-      title: "TBA",
-      content: "TBA",
-      url: "#"
+      title: "Cashier In Sandbox",
+      content: "Update to allow you to cashier in sandbox",
+      rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/tools/cashierInSandbox.sql",
+      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/tools/cashierInSandbox.sql"
     },
   ],
   Information: [
     {
       imageSrc:
         "https://endlessicons.com/wp-content/uploads/2013/02/wrench-icon.png",
-      title: "TBA",
-      content: "TBA",
-      url: "#"
+      title: "Store Information Tool",
+      content: "Grabs infor about stores",
+      rawsqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/tools/storeInformationTool.sql",
+      sqlurl: "https://github.com/lichfiet/sqlLibrary/blob/main/tools/storeInformationTool.sql"
     },
   ],
 }
