@@ -62,7 +62,7 @@ const SQLS = {
   Diagnostics: [
     {
       imageSrc:
-        "https://endlessicons.com/wp-content/uploads/2013/02/wrench-icon.png",
+        "https://github.com/lichfiet/sqlLibraryWebsite/assets/143028846/463b3de9-9b16-4c64-a994-147dd16edef9",
       title: "Management Activity Error",
       content: "Diagnose Redlight System Errors",
       rawsqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/main/diagnostics/management%20activity/managementActivityError.sql",
