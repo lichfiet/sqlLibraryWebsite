@@ -107,7 +107,7 @@ const SQLS = {
         "https://st3.depositphotos.com/12229170/17110/v/450/depositphotos_171103234-stock-illustration-screwdriver-solid-icon-build-repair.jpg",
       title: "Cashier In Sandbox",
       content: "Update to allow you to cashier in sandbox",
-      rawsqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/blob/main/tools/cashierInSandbox.sql",
+      rawsqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/main/tools/cashierInSandbox.sql",
       sqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/tools/cashierInSandbox.sql"
     },
   ],
@@ -117,7 +117,7 @@ const SQLS = {
         "https://endlessicons.com/wp-content/uploads/2013/02/wrench-icon.png",
       title: "Store Information Tool",
       content: "Grabs infor about stores",
-      rawsqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/blob/main/tools/storeInformationTool.sql",
+      rawsqlurl: "https://raw.githubusercontent.com/lichfiet/sqlLibrary/main/tools/storeInformationTool.sql",
       sqlurl: "https://github.com/lichfiet/sqlLibrary/raw/main/tools/storeInformationTool.sql"
     },
   ],
